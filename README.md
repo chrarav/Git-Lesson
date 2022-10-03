@@ -5,10 +5,15 @@
 * Save the file
 * Stage the file
 * Commit the file and write a message
-* Push to GitHun
+* Push to GitHub
 
 ##Make a website 
-* Create a index.md
+* Create a 'index.md'
+* Add some content.
+* Save the file.
+* Stage the file
+* Commit the file and write a mesage.
+* Push to GitHub
 * Create a site
 
 ##Shopping list for lunch
