@@ -7,11 +7,11 @@
 * Commit the file and write a message
 * Push to GitHun
 
-#Make a 
-*adsda
-*fada
+##Make a website 
+* Create a index.md
+* Create a site
 
-#Shopping list for lunch
+##Shopping list for lunch
 * Bread
 * Cheese
 * Mayo
