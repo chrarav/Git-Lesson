@@ -20,3 +20,4 @@
 * Bread
 * Cheese
 * Mayo
+* Essential: be hungry
